@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shrishti
 - 👀 I’m interested in Programming (specially Data Structures)
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js & Spring Boot
 - 📫 How to reach me shrishtiojha1619@gmail.com
 
 <!---
