@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shrishti
 - 👀 I’m interested in Programming (specially Data Structures)
-- 🌱 I’m currently learning React.js & Spring Boot
+- 🌱 I’m currently learning Ember.js & Spring Boot
 - 📫 How to reach me shrishtiojha1619@gmail.com
 
 <!---
